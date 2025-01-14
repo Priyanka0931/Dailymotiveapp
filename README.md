@@ -14,8 +14,9 @@ Below are the wireframes for the app:
 2. **Home Page**: allows user to sign or sign up to the app
 3. **Sign in**: Allows user to login to the app
 4. **Sign up**: Allows user to create a account for the app
-5. **Quote Page**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
+5. **Quote Page**: Displays a motivational quote with buttons for "Next Quote","Previous Quote","Like","Share" ans "Save".
 6. **Menu**: Allows users to enable/disable daily notifications and view saved quotes.
+7. **Saved Quotes**: Allows users to view sved quotes
 
                                              
 ![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).   ![Home](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/home.png?raw=true)
