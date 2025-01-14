@@ -16,7 +16,7 @@ Below are the wireframes for the app:
 4. **Home Screen**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
 5. **Settings Screen**: Allows users to enable/disable daily notifications and set their timing.
 
-![Splash Screen](path/to/splash_screen.png).
+![Splash Screen](splash screen.png).
 
 
 
