@@ -16,12 +16,12 @@ Below are the wireframes for the app:
 4. **Home Screen**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
 5. **Settings Screen**: Allows users to enable/disable daily notifications and set their timing.
 
-[![Alt Text](imagess/splash screen.png)](link-url)
+##Splash Screen
+![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).    
 
+##Sign in
+![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 
-
-![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).    ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
-![Settings Screen Wireframe](path/to/settings_wireframe.png)]
 
 ## Software Architecture
 The app is designed using the Model-View-Controller (MVC) pattern:
