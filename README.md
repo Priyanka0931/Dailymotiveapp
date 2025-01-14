@@ -22,7 +22,8 @@ Below are the wireframes for the app:
 
 ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)     ![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20up.png?raw=true)
 
-![Quote Page](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/quote%20page.png?raw=true)     ![Menu](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20up.png?raw=true)
+![Quote Page](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/quote%20page.png?raw=true)     ![Menu](![image](https://github.com/user-attachments/assets/fe835b9b-5b42-4efe-95bd-5efed2b90498)
+)
 
 
 
