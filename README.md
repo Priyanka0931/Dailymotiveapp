@@ -14,13 +14,14 @@ Below are the wireframes for the app:
 2. **Sign in**: Allows user to login to the app
 3. **Sign up**: Allows user to create a account for the app
 4. **Home Screen**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
-5. **Settings Screen**: Allows users to enable/disable daily notifications and set their timing.
+5. **Menu**: Allows users to enable/disable daily notifications and view saved quotes.
 
-**Splash Screen
+
 ![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).    
 
-**Sign in
 ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
+
+![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 
 
 ## Software Architecture
