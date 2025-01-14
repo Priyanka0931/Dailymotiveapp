@@ -22,6 +22,9 @@ Below are the wireframes for the app:
 
 ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)     ![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20up.png?raw=true)
 
+![Quote Page](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)     ![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20up.png?raw=true)
+
+
 
 ## Software Architecture
 The app is designed using the Model-View-Controller (MVC) pattern:
