@@ -19,7 +19,7 @@ Below are the wireframes for the app:
 1.                                             2. 
 ![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true). ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 
-![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
+![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20up.png?raw=true)
 
 
 ## Software Architecture
