@@ -40,7 +40,9 @@ The app is designed using the Model-View-Controller (MVC) pattern:
 
 Below is the UML diagram illustrating these components:
 
-![UML Diagram](path/to/uml_diagram.png)
+![UML Diagram](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/quote%20page.png?raw=true)
+
+
 
 ## Technology Stack
 - **Programming Language**: Kotlin (or Java)
