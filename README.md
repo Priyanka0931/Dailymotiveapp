@@ -40,7 +40,7 @@ The app is designed using the Model-View-Controller (MVC) pattern:
 
 Below is the UML diagram illustrating these components:
 
-![UML Diagram](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/quote%20page.png?raw=true)
+![UML Diagram](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/New%20Note%202025-01-14%2013-42-04%20M4J%20-1.png?raw=true)
 
 
 
