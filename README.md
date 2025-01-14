@@ -17,9 +17,7 @@ Below are the wireframes for the app:
 5. **Menu**: Allows users to enable/disable daily notifications and view saved quotes.
 
 
-![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).    
-
-![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
+1. ![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).  2. ![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 
 ![Sign up](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 
