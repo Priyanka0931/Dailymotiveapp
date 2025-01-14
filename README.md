@@ -26,6 +26,9 @@ Below are the wireframes for the app:
 
 
 
+  ![Quote Page](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/saved%20quotes.png?raw=true)  
+
+
 ## Software Architecture
 The app is designed using the Model-View-Controller (MVC) pattern:
 
