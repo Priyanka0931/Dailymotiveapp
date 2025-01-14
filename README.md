@@ -14,6 +14,8 @@ Below are the wireframes for the app:
 2. **Settings Screen**: Allows users to enable/disable daily notifications and set their timing.
 
 ![splash screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true)
+[Click here to view the image](images/splash-screen.png)
+
 
 ![Home Screen Wireframe](path/to/home_screen_wireframe.png)
 ![Settings Screen Wireframe](path/to/settings_wireframe.png)]
