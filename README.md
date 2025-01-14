@@ -20,7 +20,7 @@ Below are the wireframes for the app:
 
 
 
-![Splash Screen](splash screen.png).
+![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).
 
 
 
