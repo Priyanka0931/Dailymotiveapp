@@ -11,10 +11,11 @@ The **Daily Motivation Quote App** is designed to inspire users with motivationa
 Below are the wireframes for the app:
 
 1. **Splash Screen**: Displays the logo of the app
-2. **Sign in**: Allows user to login to the app
-3. **Sign up**: Allows user to create a account for the app
-4. **Home Screen**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
-5. **Menu**: Allows users to enable/disable daily notifications and view saved quotes.
+2. **Home Page**: allows user to sign or sign up to the app
+3. **Sign in**: Allows user to login to the app
+4. **Sign up**: Allows user to create a account for the app
+5. **Quote Page**: Displays a motivational quote with buttons for "Next Quote" and "Share Quote."
+6. **Menu**: Allows users to enable/disable daily notifications and view saved quotes.
 
                                              
 ![Splash Screen](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/splash%20screen.png?raw=true).   ![Home](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/home.png?raw=true)
