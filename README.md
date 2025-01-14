@@ -24,7 +24,7 @@ Below are the wireframes for the app:
 
 
 
-![Home Screen Wireframe](path/to/home_screen_wireframe.png)
+![Sign in](https://github.com/Priyanka0931/Dailymotiveapp/blob/main/sign%20in.png?raw=true)
 ![Settings Screen Wireframe](path/to/settings_wireframe.png)]
 
 ## Software Architecture
